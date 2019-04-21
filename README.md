@@ -1,2 +1,2 @@
 # Cosas-Linux-Manjaro
-Ir a la [Wiki](Cosas-Linux-Manjaro/wiki)
+Ir a la [Wiki](https://github.com/sevioptero/Cosas-Linux-Manjaro/wiki)
